@@ -1,1 +1,0 @@
-# poxVision_detection
